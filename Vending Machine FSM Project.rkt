@@ -108,8 +108,10 @@
 ;217:Write Racket code to implement a given finite state machine.                                                                                                 |
 ;-----------------------------------------------------------------------------------------------------------------------------------------------------------------|                                                                            
 (run-transition "APPROVED" '("COLLECT THE ITEM" "RESET") STATE-TABLE)                             
-                           
-                        
+       
+       
+       
+       ;your so fucking amazing so chok me daddy                        
                         
                     
                          
